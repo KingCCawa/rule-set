@@ -1,7 +1,3 @@
-# 【中国大陆专属】Emby影视库 + danmu_api 全直连（2025最新）
-# 更新：2025-11-06
-# 数量：8条
-
 DOMAIN-SUFFIX,emby.bangumi.ca,DIRECT
 DOMAIN-SUFFIX,media.nijigem.by,DIRECT
 DOMAIN-SUFFIX,cycani.org,DIRECT
@@ -11,6 +7,3 @@ DOMAIN-SUFFIX,api.danmu.icu,DIRECT
 DOMAIN-SUFFIX,danmu-api-rouge-ten.vercel.app,DIRECT
 DOMAIN-SUFFIX,danmu-api-huangxd.vercel.app,DIRECT
 DOMAIN-SUFFIX,danmu-api.vercel.app,DIRECT
-
-# 结束标记（必须保留）
-FINAL,DIRECT
