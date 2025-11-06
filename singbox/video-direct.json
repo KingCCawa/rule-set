@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        // 你的三个 Emby 库
+        "emby.bangumi.ca",
+        "media.nijigem.by",
+        ".cycani.org",
+
+        // danmu_api 中国最快的主力实例
+        "danmu.icu",
+        "api.danmu.icu",
+        "danmu-api-rouge-ten.vercel.app",
+        // 备用（万一主站炸了）
+        "danmu-api-huangxd.vercel.app",
+        "danmu-api.vercel.app"
+      ]
+    }
+  ]
+}
