@@ -3,9 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
+        ".cycani.org",
+        
         "emby.bangumi.ca",
         "media.nijigem.by",
-        ".cycani.org",
+        
         "ma.vo0.site"
       ]
     }
