@@ -1,9 +1,6 @@
-DOMAIN-SUFFIX,emby.bangumi.ca,DIRECT
-DOMAIN-SUFFIX,media.nijigem.by,DIRECT
 DOMAIN-SUFFIX,cycani.org,DIRECT
 
-DOMAIN-SUFFIX,danmu.icu,DIRECT
-DOMAIN-SUFFIX,api.danmu.icu,DIRECT
-DOMAIN-SUFFIX,danmu-api-rouge-ten.vercel.app,DIRECT
-DOMAIN-SUFFIX,danmu-api-huangxd.vercel.app,DIRECT
-DOMAIN-SUFFIX,danmu-api.vercel.app,DIRECT
+DOMAIN-SUFFIX,emby.bangumi.ca,DIRECT
+DOMAIN-SUFFIX,media.nijigem.by,DIRECT
+
+DOMAIN-SUFFIX,ma.vo0.sit,DIRECT
