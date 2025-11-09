@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        ".cycani.org",
+        "cycani.org",
+        "cycani.pro",
+        "netflixgc.com",
         
         "emby.bangumi.ca",
         "media.nijigem.by",
