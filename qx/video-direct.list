@@ -1,0 +1,15 @@
+QuantumultX# NAME: Disney
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-07-30 02:08:19
+# HOST: 1
+# HOST-SUFFIX: 172
+# USER-AGENT: 1
+# TOTAL: 174
+HOST,cdn.registerdisney.go.com,Disney
+HOST-SUFFIX,20thcenturystudios.com.au,Disney
+HOST-SUFFIX,20thcenturystudios.com.br,Disney
+HOST-SUFFIX,20thcenturystudios.jp,Disney
+HOST-SUFFIX,abc-studios.com,Disney
+HOST-SUFFIX,abc.com,Disney
+HOST-SUFFIX,abcnews.com,Disney
