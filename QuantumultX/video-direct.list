@@ -1,14 +1,29 @@
-# NAME: Disney
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-30 02:08:19
-# HOST: 1
-# HOST-SUFFIX: 172
-# USER-AGENT: 1
-# TOTAL: 174
-HOST,cdn.registerdisney.go.com,Disney
-HOST-SUFFIX,20thcenturystudios.com.au,Disney
-HOST-SUFFIX,20thcenturystudios.com.br,Disney
-HOST-SUFFIX,20thcenturystudios.jp,Disney
-HOST-SUFFIX,abc-studios.com,Disney
-HOST-SUFFIX,abc.com,Disney
+# NAME: 影视资源网站
+# AUTHOR: ChatGPT
+# UPDATED: 2025-12-17
+# DOMAIN-SUFFIX: 19
+# TOTAL: 19
+
+HOST-SUFFIX,cycani.org,影视资源网站
+HOST-SUFFIX,cycani.pro,影视资源网站
+HOST-SUFFIX,netflixgc.com,影视资源网站
+HOST-SUFFIX,yhdm.one,影视资源网站
+HOST-SUFFIX,niceso.net,影视资源网站
+HOST-SUFFIX,ncat21.com,影视资源网站
+HOST-SUFFIX,4kvm.site,影视资源网站
+HOST-SUFFIX,4kvm.me,影视资源网站
+HOST-SUFFIX,4kvm.pro,影视资源网站
+HOST-SUFFIX,4kvm.tv,影视资源网站
+HOST-SUFFIX,4kvm.org,影视资源网站
+HOST-SUFFIX,4kvm.net,影视资源网站
+HOST-SUFFIX,pipiysb.com,影视资源网站
+
+HOST-SUFFIX,link01.okemby.org,影视资源网站
+HOST-SUFFIX,link00.okemby.org,影视资源网站
+HOST-SUFFIX,emby.bangumi.ca,影视资源网站
+HOST-SUFFIX,media.nijigem.by,影视资源网站
+
+HOST-SUFFIX,ma.vo0.sit,影视资源网站
+HOST-SUFFIX,mooguu.net,影视资源网站
+HOST-SUFFIX,ultra.mooguu.net,影视资源网站
+HOST-SUFFIX,pro.mooguu.net,影视资源网站
