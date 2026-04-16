@@ -16,7 +16,9 @@ DOMAIN-SUFFIX,link01.okemby.org,DIRECT
 DOMAIN-SUFFIX,link00.okemby.org,DIRECT
 DOMAIN-SUFFIX,emby.bangumi.ca,DIRECT
 DOMAIN-SUFFIX,media.nijigem.by,DIRECT
+	
 
+DOMAIN-SUFFIX,ss.iposl.com,DIRECT
 DOMAIN-SUFFIX,ppf.iposl.com,DIRECT
 DOMAIN-SUFFIX,ma.vo0.sit,DIRECT
 DOMAIN-SUFFIX,mooguu.net,DIRECT
