@@ -4,7 +4,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "arcartx.com"
+        "arcartx.com",
+        "goofish.pro"
       ]
     }
   ]
