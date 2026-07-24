@@ -1,4 +1,3 @@
-
 {
   "version": 2,
   "rules": [
@@ -12,7 +11,10 @@
         "i.imgur.com",
         "xiaoxinfps.com",
         "m3.pulidc.com",
-        "open.u-tools.cn"
+        "open.u-tools.cn",
+        "agent-gateway.lobehub.com",
+        "app.lobehub.com",
+        "lobehub.com"
       ]
     }
   ]
