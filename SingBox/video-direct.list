@@ -16,18 +16,22 @@
         "4kvm.tv",
         "4kvm.org",
         "pipiysb.com",
-        
+
         "link01.okemby.org",
         "link00.okemby.org",
         "emby.bangumi.ca",
         "media.nijigem.by",
 
-        "ss.iposl.com",
-        "ppf.iposl.com",
-        "ma.vo0.site",
-        "ultra.mooguu.net",
-        "pro.mooguu.net",
-        "mooguu.net"
+        "iposl.com",
+        "vo0.site",
+        "mooguu.net",
+        "bgp.yt",
+        "o7o7.cn"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "91.108.56.138/32"
       ]
     }
   ]
