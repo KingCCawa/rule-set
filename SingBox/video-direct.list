@@ -1,34 +1,33 @@
 {
   "version": 2,
   "rules": [
-    {
-      "domain_suffix": [
-        "cycani.org",
-        "cycani.pro",
-        "netflixgc.com",
-        "yhdm.one",
-        "niceso.net",
-        "ncat21.com",
-        "4kvm.site",
-        "4kvm.me",
-        "4kvm.pro",
-        "4kvm.net",
-        "4kvm.tv",
-        "4kvm.org",
-        "pipiysb.com",
-
-        "link01.okemby.org",
-        "link00.okemby.org",
-        "emby.bangumi.ca",
-        "media.nijigem.by",
-
-        "iposl.com",
-        "vo0.site",
-        "mooguu.net",
-        "bgp.yt",
-        "o7o7.cn"
-      ]
-    }
+      {
+        "domain_suffix": [
+          "cycani.org",
+          "cycani.pro",
+          "netflixgc.com",
+          "yhdm.one",
+          "niceso.net",
+          "ncat21.com",
+          "4kvm.site",
+          "4kvm.me",
+          "4kvm.pro",
+          "4kvm.net",
+          "4kvm.tv",
+          "4kvm.org",
+          "pipiysb.com",
+  
+          "link01.okemby.org",
+          "link00.okemby.org",
+          "emby.bangumi.ca",
+          "media.nijigem.by",
+  
+          "iposl.com",
+          "vo0.site",
+          "mooguu.net",
+          "o7o7.cn"
+        ]
+      }
     }
   ]
 }
