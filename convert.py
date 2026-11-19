@@ -10,8 +10,14 @@ Output : Surge/*.list, QuantumultX/*.list, Shadowrocket/*.list
 from __future__ import annotations
 
 import json
-from datetime import date
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
+
+
+def today_cn() -> str:
+    """Beijing time (UTC+8) date, stable regardless of the runner timezone."""
+    return datetime.now(timezone(timedelta(hours=8))).date().isoformat()
+
 
 ROOT = Path(__file__).resolve().parent
 SRC_DIR = ROOT / "SingBox"
@@ -79,7 +85,7 @@ def render_quantumultx(name: str, rules: list[tuple[str, str]]) -> str:
     header = [
         f"# NAME: {group}",
         f"# AUTHOR: {QX_AUTHOR}",
-        f"# UPDATED: {date.today().isoformat()}",
+        f"# UPDATED: {today_cn()}",
         f"# DOMAIN-SUFFIX: {count}",
         f"# TOTAL: {count}",
         "",
@@ -92,7 +98,7 @@ def render_shadowrocket(name: str, rules: list[tuple[str, str]]) -> str:
     lines = [
         f"# Shadowrocket / {name}",
         f"# Generated from SingBox/{name}.list",
-        f"# Updated: {date.today().isoformat()}",
+        f"# Updated: {today_cn()}",
         f"# Rules: {len(rules)}",
         "",
     ]
