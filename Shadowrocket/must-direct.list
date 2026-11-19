@@ -1,0 +1,28 @@
+# Shadowrocket / must-direct
+# Generated from SingBox/must-direct.list
+# Updated: 2026-11-20
+# Rules: 23
+
+DOMAIN-SUFFIX,arcartx.com,DIRECT
+DOMAIN-SUFFIX,goofish.pro,DIRECT
+DOMAIN-SUFFIX,xyzscience.com,DIRECT
+DOMAIN-SUFFIX,api.123278.com,DIRECT
+DOMAIN-SUFFIX,hub.sparklinkplayjoy.com,DIRECT
+DOMAIN-SUFFIX,i.imgur.com,DIRECT
+DOMAIN-SUFFIX,xiaoxinfps.com,DIRECT
+DOMAIN-SUFFIX,m3.pulidc.com,DIRECT
+DOMAIN-SUFFIX,open.u-tools.cn,DIRECT
+DOMAIN-SUFFIX,china.psim.us,DIRECT
+DOMAIN-SUFFIX,replay.pokemonshowdown.com,DIRECT
+DOMAIN-SUFFIX,play.pokemonshowdown.com,DIRECT
+DOMAIN-SUFFIX,dex.pokemonshowdown.com,DIRECT
+DOMAIN-SUFFIX,smogtours.psim.us,DIRECT
+DOMAIN-SUFFIX,sim3.psim.us,DIRECT
+DOMAIN-SUFFIX,psc.sciroccogti.top,DIRECT
+DOMAIN-SUFFIX,waadri.top,DIRECT
+DOMAIN-SUFFIX,midishow.com,DIRECT
+DOMAIN-SUFFIX,midishow.net,DIRECT
+DOMAIN-SUFFIX,moligod.com,DIRECT
+DOMAIN-SUFFIX,orzice.com,DIRECT
+DOMAIN-SUFFIX,dlproxy.uk,DIRECT
+DOMAIN-SUFFIX,mcziyuan.com,DIRECT

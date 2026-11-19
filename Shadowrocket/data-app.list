@@ -1,0 +1,9 @@
+# Shadowrocket / data-app
+# Generated from SingBox/data-app.list
+# Updated: 2026-11-20
+# Rules: 4
+
+DOMAIN-SUFFIX,gotinder.com,DIRECT
+DOMAIN-SUFFIX,bumble.com,DIRECT
+DOMAIN-SUFFIX,bumbcdn.com,DIRECT
+DOMAIN-SUFFIX,app-analytics-services.com,DIRECT
