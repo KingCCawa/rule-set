@@ -1,6 +1,6 @@
 # Shadowrocket / game-download
 # Generated from SingBox/game-download.list
-# Updated: 2026-11-24
+# Updated: 2026-11-25
 # Rules: 1
 
 DOMAIN-SUFFIX,steamcontent.com,DIRECT
